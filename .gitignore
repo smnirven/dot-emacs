@@ -1,0 +1,10 @@
+.DS_Store
+.smex-items
+ac-comphist.dat
+backups
+elpa
+places
+
+/auto-save-list
+/eshell
+/url/cookies
