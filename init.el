@@ -40,6 +40,8 @@
 ;; show line nums
 (global-linum-mode 1)
 
+;; show paren mode
+(show-paren-mode 1)
 
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
